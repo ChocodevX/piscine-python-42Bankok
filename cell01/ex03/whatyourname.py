@@ -1,0 +1,5 @@
+print('Hey what your first name ?:')
+x = input()
+print('And your last name ?:')
+y = input()
+print('Hello, ' + x + " " + y)
